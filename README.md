@@ -189,7 +189,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Rust
  - [mongodb-rust-driver](https://github.com/mongodb/mongo-rust-driver) - Official Rust driver
- - [Mongodm-rs](https://github.com/Devolutions/mongodm-rs) - A thin ODM layer for MongoDB built upon the official Rust driver
+ - [MongODM](https://github.com/Devolutions/mongodm-rs) - A thin ODM layer for MongoDB built upon the official Rust driver
  - [Wither](https://github.com/thedodd/wither) - A simple, sane & predictable interface into MongoDB based on data models.
 
 
